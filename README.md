@@ -1,2 +1,1 @@
-# alu-smiling-school-javascript
-new
+Javascript project.
